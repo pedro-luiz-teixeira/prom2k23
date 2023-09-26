@@ -13,7 +13,14 @@ body {
     padding: 20px;
     max-width: 400px;
     margin: 20px auto;
+    background-image: url('image.JPG');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
 }
+
+
 
 .taylor-swift-title {
     font-size: 24px;
@@ -22,6 +29,7 @@ body {
 
 .phrases {
     margin-top: 20px;
+    color:white;
 }
 
 .phrase {
